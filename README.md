@@ -73,14 +73,6 @@ Ideal for powering:
 - 3D modeling and design review  
 - Design for manufacturability (DFM)
 
----
-
-## Contact
-
-**Designed by:** Kwabena Amoako  
-email: rnccclub.info@gmail.com
-
-Feel free to contribute or open issues if you want to suggest improvements or fork for your own use!
 
 
 
