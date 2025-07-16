@@ -30,7 +30,7 @@ Ideal for powering:
 
 ---
 
-## 🛠️ Components Used
+## Components Used
 
 - **LM7805** – 5V linear voltage regulator
 - **LM317** – Adjustable linear regulator (configured for 3.3V)
