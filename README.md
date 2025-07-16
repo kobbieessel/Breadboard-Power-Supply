@@ -13,6 +13,11 @@ Ideal for powering:
 - Educational breadboard projects
 
 ---
+## Breadboard Power Supply Images
+### Front View
+<img width="769" height="765" alt="BPS_Topview1" src="https://github.com/user-attachments/assets/38d13522-cb3f-4307-bf5b-d9808a783a09" />
+
+---
 
 ## Specifications
 
