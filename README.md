@@ -14,7 +14,7 @@ Ideal for powering:
 
 ---
 
-## ⚙️ Specifications
+## Specifications
 
 | Feature                | Description                             |
 |------------------------|-----------------------------------------|
