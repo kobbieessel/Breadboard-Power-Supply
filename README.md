@@ -14,8 +14,20 @@ Ideal for powering:
 
 ---
 ## Breadboard Power Supply Images
-### Front View
+### Top View
 <img width="769" height="765" alt="BPS_Topview1" src="https://github.com/user-attachments/assets/38d13522-cb3f-4307-bf5b-d9808a783a09" />
+
+### Bottom View
+<img width="883" height="741" alt="BPS_Bottomview" src="https://github.com/user-attachments/assets/431efa9c-c8a0-434a-8c26-70ab66b3734a" />
+
+### Front View
+<img width="1176" height="822" alt="BPS_Frontview" src="https://github.com/user-attachments/assets/a1d1bf9d-d823-48f6-afe2-00679739ce99" />
+
+### Schematic Capture
+<img width="2124" height="1114" alt="BPS_Schematic_Capture" src="https://github.com/user-attachments/assets/a1383d8e-269e-4053-91c7-ffdb21a372ab" />
+
+### PCB Layout
+<img width="1036" height="1100" alt="BPS_PCB_Layout" src="https://github.com/user-attachments/assets/a732697f-206e-4120-bbfc-d7b2bb3cc456" />
 
 ---
 
